@@ -1,0 +1,115 @@
+.gray3 { color: #333; }
+
+.gray8 { color: #b8b8b8; }
+
+.orange { color: #F90; }
+
+.green { color: #6C0; }
+
+.bg-blue { background-color: #09F; }
+
+.font { font-size: 12px; }
+
+.font24 { font-size: 24px; }
+
+.pad-top10 { margin-top: 10px; }
+
+.mar-top10 { margin-top: 10px; }
+
+.pad-left10 { margin-left: 10px; }
+
+.mar-left10 { margin-left: 10px; }
+
+.pad-right10 { margin-right: 10px; }
+
+.mar-right10 { margin-right: 10px; }
+
+.pad-bottom10 { margin-bottom: 10px; }
+
+.mar-bottom10 { margin-bottom: 10px; }
+
+.pad-top20 { margin-top: 20px; }
+
+.mar-top20 { margin-top: 20px; }
+
+.pad-left20 { margin-left: 20px; }
+
+.mar-left20 { margin-left: 20px; }
+
+.pad-right20 { margin-right: 20px; }
+
+.mar-right20 { margin-right: 20px; }
+
+.pad-bottom20 { margin-bottom: 20px; }
+
+.mar-bottom20 { margin-bottom: 20px; }
+
+.pad-top50 { margin-top: 50px; }
+
+.mar-top50 { margin-top: 50px; }
+
+.pad-left50 { margin-left: 50px; }
+
+.mar-left50 { margin-left: 50px; }
+
+.pad-right50 { margin-right: 50px; }
+
+.mar-right50 { margin-right: 50px; }
+
+.pad-bottom50 { margin-bottom: 50px; }
+
+.mar-bottom50 { margin-bottom: 50px; }
+
+.w200 { width: 200px; }
+
+.w150 { width: 150px; }
+
+.w100 { width: 100px; }
+
+.w80 { width: 80px; }
+
+.w50 { width: 50px; }
+
+.w30 { width: 30px; }
+
+.wid20 { width: 20%; }
+
+.wid25 { width: 25%; }
+
+.wid50 { width: 50%; }
+
+.wid60 { width: 60%; }
+
+.wid75 { width: 75%; }
+
+.wid80 { width: 80%; }
+
+.wid90 { width: 90%; }
+
+.wid96 { width: 96%; }
+
+.wid98 { width: 98%; }
+
+.wid100 { width: 100%; }
+
+.h200 { height: 200px; }
+
+.h150 { height: 150px; }
+
+.h100 { height: 100px; }
+
+.h50 { height: 50px; }
+
+.bg-light-purple { background-color: #d9d5fb; }
+
+.div-inline, .dl-inline { display: inline-block; }
+
+.required { color: red; font-weight: bold; }
+
+span { font-weight: normal; }
+
+.gray1-gradient { background-color: #E4E4E4; background-image: linear-gradient(to bottom, #FAFAFA, #E4E4E4 9%, #DEDEDE); }
+
+.gray2-gradient { background-color: #c8c8c8; background-image: linear-gradient(to bottom, #ddd, #c8c8c8 9%, #c0c0c0); }
+
+/*# sourceMappingURL=extend.css.map */
